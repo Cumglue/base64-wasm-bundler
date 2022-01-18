@@ -1,0 +1,12 @@
+{
+  "name": "base64-wasm-bundler",
+  "version": "0.1.0",
+  "description": "Bundle your .wasm files as base64 strings.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cumglue/base64-wasm-bundler.git"
+  },
+  "author": "Alethéia",
+  "license": "MIT"
+}

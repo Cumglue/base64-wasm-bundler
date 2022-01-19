@@ -1,5 +1,7 @@
 const fs = require("fs");
 
+// TODO: Add the base64 decode function automagically
+
 module.exports = function base64wasm() {
     return {
         name: 'base64-wasm-bundler', // this name will show up in warnings and errors

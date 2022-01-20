@@ -1,7 +1,7 @@
 {
-  "name": "base64-wasm-bundler",
+  "name": "rollup-base64-wasm-bundler",
   "version": "0.1.0",
-  "description": "Bundle your .wasm files as base64 strings.",
+  "description": "A rollup plugin to bundle your .wasm files as base64 strings.",
   "main": "main.js",
   "repository": {
     "type": "git",
